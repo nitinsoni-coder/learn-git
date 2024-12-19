@@ -8,3 +8,5 @@ function above18(age) {
 }
 
 above18(25);
+
+console.log("hello");
