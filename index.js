@@ -20,3 +20,9 @@ function multiplyOfThree(a, b, c) {
 }
 
 multiplyOfTwo(2, 4, 9);
+
+function multiplyOfFour(a, b, c, d) {
+  return a * b * c * d;
+}
+
+multiplyOfTwo(2, 4, 9, 10);
