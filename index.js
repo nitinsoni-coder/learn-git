@@ -28,3 +28,4 @@ function multiplyOfFour(a, b, c, d) {
 multiplyOfTwo(2, 4, 9, 10);
 
 console.log("---hello----");
+console.log("---heyyyy----");
