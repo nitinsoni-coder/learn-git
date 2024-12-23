@@ -8,3 +8,9 @@ function above18(age) {
 }
 
 above18(25);
+
+function multiplyOfTwo(a, b) {
+  return a * b;
+}
+
+multiplyOfTwo(2, 4);
