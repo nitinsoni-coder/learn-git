@@ -14,3 +14,9 @@ function multiplyOfTwo(a, b) {
 }
 
 multiplyOfTwo(2, 4);
+
+function multiplyOfThree(a, b, c) {
+  return a * b * c;
+}
+
+multiplyOfTwo(2, 4, 9);
