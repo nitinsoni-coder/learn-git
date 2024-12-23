@@ -7,7 +7,7 @@ function above18(age) {
   return age > 18 + 1;
 }
 
-above18(25);
+above18(26);
 
 function multiplyOfTwo(a, b) {
   return a * b;
