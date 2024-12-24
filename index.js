@@ -30,4 +30,4 @@ multiplyOfTwo(2, 4, 9, 10);
 console.log("---hello----");
 console.log("---heyyyy----");
 
-console.log("---hurrrrrrrrrr-------->>>>>>>>>>");
+console.log("---hurrr>>>>>>rrrrrrr-------->>>>>>>>>>");
